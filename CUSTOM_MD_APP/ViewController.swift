@@ -29,7 +29,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
         }
     }
     
-//Connect the table view
+//Connect the table view 
     @IBOutlet var theTableView: UITableView!
     
     
