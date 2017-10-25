@@ -39,6 +39,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
         arrayRangeMaker(100)
 //Log the path to console
         print(FM.path[1])
+        navigationItem.title = "PHOTO VIEWER"
 // Do any additional setup after loading the view, typically from a nib.
     }
 
