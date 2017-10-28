@@ -1,3 +1,3 @@
 # JPG_VIEWER-SWIFT3.XCODE8
 AUTOMATICALLY LOAD A TABLE VIEW WITH PHOTOS IN THE JPG FOLDER OF THE APP.
-![alt text](https://raw.githubusercontent.com/IOS_JPG_VIEWER-SWIFT3.XCODE8/Screen Shot 2017-10-29 at 1.55.12.png)
+![alt text](https://raw.githubusercontent.com/IOS_JPG_VIEWER-SWIFT3.XCODE8/PHOTO_VIEWER.png)
